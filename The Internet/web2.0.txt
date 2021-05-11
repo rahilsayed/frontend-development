@@ -1,0 +1,8 @@
+A collection of advances in the early 2000s created a cluster of web applications that are often called "Web 2.0". In comparison to early static websites, Web 2.0 applications are often defined by:
+    a. Providing a dynamic user experience by offering content that responds to user input without forcing the page to reload.
+    b. Emphasizing user-generated content and social sharing.
+
+There were important technical advances that enabled each of these advances in the user interface of the internet. For example:
+
+    a. jQuery was the first JavaScript framework that could fetch data while the web page is running.
+    b. The rise of web frameworks that connected to databases, like Spring, Django, and Ruby-on-Rails, enabled user-generated content to effectively be created, stored, and displayed.

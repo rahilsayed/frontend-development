@@ -1,0 +1,7 @@
+The client-server model: In this model, the client refers to the user’s device or   program that is making a request for data. A client can be a browser or application running on a user’s laptop, smartphone, or tablet.
+The server is the device or program in that network that waits for incoming requests and sends back data.
+
+Working of Browser: 
+    a. When a user types in a URL and presses enter, the server processes the request and sends the HTML file back to the client. HTML files hold the content of a website and they also contain links for any additional assets or code that are needed to display the site properly.
+    b. The browser will begin to search for elements in the HTML file and it will start to make additional HTTP requests for any other external resources used by the HTML file.
+

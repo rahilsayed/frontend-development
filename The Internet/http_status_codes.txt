@@ -1,0 +1,6 @@
+When a server responds to a client, the server specifies a status code as a part of the response. Status codes indicate whether or not the HTTP request was successfully completed and if there was an error, they contain some information about the type of error that happened. The status code helps the browser know how to handle the data that was sent back with the response.
+
+200 (OK): The request has succeeded.
+301 (Moved Permanently): The resource has been moved and the client is being redirected.
+404 (Not Found): The requested resource was not found.
+500 (Internal Server Error): The server encountered an unexpected error. 

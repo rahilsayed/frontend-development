@@ -1,0 +1,4 @@
+1. In 1969, the United States Department of Defense funded the creation of ARPANET, a precursor network to the internet. ARPANET stands for Advanced Research Projects Agency Network.
+2. In the 1970s, the transmission control protocol and internet protocol, otherwise known as TCP/IP, were created
+3. TCP/IP was researched and specified throughout the 1970s and adopted in the early 1980s. As different networks adopted TCP/IP, the interconnected global network of networks that is today known as the INTERNET was formed.
+4. Hence, internet can be defines as network of interconnected networking devices.
